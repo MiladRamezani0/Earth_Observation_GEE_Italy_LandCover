@@ -27,6 +27,15 @@ No installation is required locally. All scripts are written for Google Earth En
 
 For more information on how to access the data, please refer to [data_sources.md](data_sources.md).
 
+## GEE Code
+
+The code for this project is hosted on Google Earth Engine. You can access the scripts via the following link:
+
+[[View GEE Script for LULC Mapping](https://code.earthengine.google.com/your_script_link_here)](https://code.earthengine.google.com/a53aa2b8dc6b4aa901e812c79e973c7d)
+
+Simply open the link in the Google Earth Engine Code Editor to view and run the code.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
